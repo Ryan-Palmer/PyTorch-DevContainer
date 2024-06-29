@@ -1,4 +1,4 @@
-# Pytorch DevContainer template
+# PyTorch DevContainer template
 
 To run on Windows you will need:
 
